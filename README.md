@@ -28,6 +28,7 @@
 #### I'm currently learning:
 - [![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
 - [![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android)](https://www.android.com/)
+- [![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat-square&logo=react)](https://reactnative.dev/)
 
 ---
 
