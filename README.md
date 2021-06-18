@@ -28,3 +28,17 @@
 #### I'm currently learning:
 - [![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
 - [![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android)](https://www.android.com/)
+
+---
+
+<table border="3">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
+    </td>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+  
