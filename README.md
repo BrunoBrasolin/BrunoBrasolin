@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm **_Bruno Brasolin_**
 
-#### I'm Front End Developer at [@kbrtec](https://www.kbrtec.com.br/)
+#### I'm full stack systems analyst at [@T2S](https://www.t2s.com.br/)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoBrasolin)](https://github.com/BrunoBrasolin)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-brasolin/)](https://www.linkedin.com/in/bruno-brasolin/)
@@ -16,19 +16,19 @@
 [![SCSS](https://img.shields.io/badge/-SCSS3-%23c76494?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
 [![PHP](https://img.shields.io/badge/-PHP-%237377ad?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/-Laravel-%23f72c1f?style=flat-square&logo=laravel&logoColor=ffffff)](https://laravel.com/)
-[![WordPress](https://img.shields.io/badge/-WordPress-%2321759b?style=flat-square&logo=wordpress&logoColor=ffffff)](https://laravel.com/)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React%20Native-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactnative.dev/)
 [![Git](https://img.shields.io/badge/-Git-%23e84e31?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
+[![C#](https://img.shields.io/badge/-C%23-%239b6fd3?style=flat-square&logo=c-sharp&logoColor=ffffff)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+[![.Net](https://img.shields.io/badge/-.Net-%23592c8c?style=flat-square&logo=dotnet&logoColor=ffffff)](https://dotnet.microsoft.com/)
 
 ---
 
 ### :books: Learning
 
 #### I'm currently learning:
-- [![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
-- [![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android)](https://www.android.com/)
-- [![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=flutter)](https://flutter.dev/)
+- [![C#](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [![.Net](https://img.shields.io/badge/-.Net-000?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
 
 ---
 
