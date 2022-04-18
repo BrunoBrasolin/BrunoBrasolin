@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm **_Bruno Brasolin_**
+### Hi there 👋, I'm **_Bruno Brasolin_**
 
 #### I'm full stack systems analyst at [@T2S](https://www.t2s.com.br/)
 
