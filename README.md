@@ -1,45 +1,54 @@
-### Hi there 👋, I'm **_Bruno Brasolin_**
+# Bruno Brasolin
 
-#### I'm full stack systems analyst at [@T2S](https://www.t2s.com.br/)
+## Projetos pessoais
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoBrasolin)](https://github.com/BrunoBrasolin)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-brasolin/)](https://www.linkedin.com/in/bruno-brasolin/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunobrasolinc@gmail.com)](mailto:brunobrasolinc@gmail.com)
+### [be-the-hero](https://github.com/BrunoBrasolin/be-the-hero)
+Projeto feito com a [Rocketseat](https://www.rocketseat.com.br) durante a [11ª edição da Semana OmniStack](https://github.com/rocketseat-education/semana-omnistack-11).
 
----
+### [ecoleta](https://github.com/BrunoBrasolin/ecoleta)
+Projeto feito com a [Rocketseat](https://www.rocketseat.com.br) durante a [1ª edição da NextLevelWeek](https://github.com/rocketseat-education/nlw-01-discovery).
 
-### :hammer_and_wrench: Languages/Tools
+### [ConsumoCombustivel](https://github.com/BrunoBrasolin/ConsumoCombustivel)
+Projeto pessoal feito para verificar a média de consumo de um veículo com base no histórico de abastecimento.
 
-[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3schools.com/css/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23efd81d?style=flat-square&logo=javascript&logoColor=000000)](https://www.w3schools.com/js/)
-[![SCSS](https://img.shields.io/badge/-SCSS3-%23c76494?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
-[![PHP](https://img.shields.io/badge/-PHP-%237377ad?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/-Laravel-%23f72c1f?style=flat-square&logo=laravel&logoColor=ffffff)](https://laravel.com/)
-[![ReactJS](https://img.shields.io/badge/-ReactJS-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React%20Native-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactnative.dev/)
-[![Git](https://img.shields.io/badge/-Git-%23e84e31?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
-[![C#](https://img.shields.io/badge/-C%23-%239b6fd3?style=flat-square&logo=c-sharp&logoColor=ffffff)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-[![.Net](https://img.shields.io/badge/-.Net-%23592c8c?style=flat-square&logo=dotnet&logoColor=ffffff)](https://dotnet.microsoft.com/)
+### [alura](https://github.com/BrunoBrasolin/alura)
+Repositório estão todos os cursos feitos na [Alura](https://www.alura.com.br).
+- [css-flexbox](https://github.com/BrunoBrasolin/alura/tree/main/css-flexbox);
+- [dotnet-CursoWindowsForms](https://github.com/BrunoBrasolin/alura/tree/main/dotnet-CursoWindowsForms);
+- [html-css](https://github.com/BrunoBrasolin/alura/tree/main/html-css);
+- [java-jpa](https://github.com/BrunoBrasolin/alura/tree/main/java-jpa);
+- [js-avancado](https://github.com/BrunoBrasolin/alura/tree/main/js-avancado);
+- [js-jquery](https://github.com/BrunoBrasolin/alura/tree/main/js-jquery);
+- [php-laravel](https://github.com/BrunoBrasolin/alura/tree/main/php-laravel);
+- [regex](https://github.com/BrunoBrasolin/alura/tree/main/regex).
 
----
+### [WeatherService](https://github.com/BrunoBrasolin/WeatherService)
+Projeto feito para enviar um e-mail diário com a previsão do tempo para o dia seguinte.
 
-### :books: Learning
+### [RabbitMQHelloWorld](https://github.com/BrunoBrasolin/RabbitMQHelloWorld)
+Projeto para entender como funciona o RabbitMQ.
 
-#### I'm currently learning:
-- [![C#](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-- [![.Net](https://img.shields.io/badge/-.Net-000?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
+### [fatec](https://github.com/BrunoBrasolin/fatec)
+Repositório onde estão todos os projetos feitos na [Fatec Praia Grande](https://fatecpg.edu.br/);
+- [linguagem-programacao](https://github.com/BrunoBrasolin/fatec/tree/main/linguagem-programacao);
+- [programacao-orientada-a-objetos](https://github.com/BrunoBrasolin/fatec/tree/main/programacao-orientada-a-objetos);
+- [programacao-para-dispositivos-moveis](https://github.com/BrunoBrasolin/fatec/tree/main/programacao-para-dispositivos-moveis);
+- [topicos-especiais-em-informatica](https://github.com/BrunoBrasolin/fatec/tree/main/topicos-especiais-em-informatica).
 
----
+### [CrudContainer](https://github.com/BrunoBrasolin/CrudContainer)
+Projeto feito para aprender ASP.NET.
 
-<table border="3">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
-    </td>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-  
+### [video-streaming](https://github.com/BrunoBrasolin/video-streaming)
+Projeto apenas front-end.
+
+### [ToDoApp](https://github.com/BrunoBrasolin/ToDoApp)
+Projeto feito utilizando o _React Native Async Storage_.
+
+### [interfatecs-2020](https://github.com/BrunoBrasolin/interfatecs-2020)
+Problemas resolvidos no Interfatecs 2020.
+
+### [bitfit](https://github.com/BrunoBrasolin/bitfit)
+Projeto apenas front-end.
+
+### [npl](https://github.com/BrunoBrasolin/npl)
+Primeiro projeto WEB.
