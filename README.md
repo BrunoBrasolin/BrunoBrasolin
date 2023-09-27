@@ -19,7 +19,7 @@
 [![C#](https://img.shields.io/badge/-C%23-%239b6fd3?style=flat-square&logo=c-sharp&logoColor=ffffff)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [![.Net](https://img.shields.io/badge/-.Net-%23592c8c?style=flat-square&logo=dotnet&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23ff6600?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://www.rabbitmq.com/)
-[![Azure DevOps](https://img.shields.io/badge/-RabbitMQ-%23ff6600?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://azure.microsoft.com/en-us/products/devops/)
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-%23087cd8?style=flat-square&logo=azuredevops&logoColor=ffffff)](https://azure.microsoft.com/en-us/products/devops/)
 [![Elastic](https://img.shields.io/badge/-Elastic-%2300bfb3?style=flat-square&logo=elastic&logoColor=ffffff)](https://www.elastic.co/)
 
 ---
