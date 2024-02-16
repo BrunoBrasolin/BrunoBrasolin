@@ -21,13 +21,3 @@ I'm Systems Analyst at [Brasil Terminal Portuário](https://btp.com.br)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23ff6600?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://www.rabbitmq.com/)
 [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-%23087cd8?style=flat-square&logo=azuredevops&logoColor=ffffff)](https://azure.microsoft.com/en-us/products/devops/)
 [![Elastic](https://img.shields.io/badge/-Elastic-%2300bfb3?style=flat-square&logo=elastic&logoColor=ffffff)](https://www.elastic.co/)
-
----
-
-<table border="3">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
