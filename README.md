@@ -1,6 +1,4 @@
-### Hi there 👋, I'm **_Bruno Brasolin_**
-
-I'm Systems Analyst at [Brasil Terminal Portuário](https://btp.com.br)
+### Hello, meet the real me
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoBrasolin)](https://github.com/BrunoBrasolin)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-brasolin/)](https://www.linkedin.com/in/bruno-brasolin/)
