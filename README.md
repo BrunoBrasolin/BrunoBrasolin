@@ -1,7 +1,5 @@
 # Hello Holland
 
-![Yeah Yeah](https://raw.githubusercontent.com/BrunoBrasolin/BrunoBrasolin/refs/heads/main/maxresdefault.jpg)
-
 ```
 D|-----------------|-----------------|-----------------|
 A|-----0---------3-|-----0---------3-|-----0---------3-|
